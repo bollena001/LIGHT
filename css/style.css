@@ -138,7 +138,7 @@ p {
         fill: yellow;
     }
     
-    path.Lamp:hover{
+    path.Lamp:hover:focus{
         -webkit-animation-name: lamp-flicker;
         animation-duration: 3s;
         fill:yellow;
