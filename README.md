@@ -9,6 +9,7 @@ The REA huurde graphic designer Lester Beall in om een serie posters te maken me
 
 
 <img src="seriesposters.png" width="600">
+<img src="lightposter.png" width="600">
 
 
 Bronnen:
