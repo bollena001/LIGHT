@@ -1,7 +1,5 @@
 # LIGHT
-Poster
-
-link: https://bollena001.github.io/LIGHT/.
+<b>Poster</b> link: https://bollena001.github.io/LIGHT/.
 
 In 1935 werd door President Roosevelt the Rural Electrification Administration(REA) bedacht. Het doel van the REA was om elektriciteit naar het platteland van Amerika te brengen. Veel steden in 1935 hadden al electriciteit maar minder dan 11 van de 100 boerderijen kregen elektriciteit van de central station electric service en dit kwam omdat de elektriciteitsbedrijven niet bereid waren om kabels te leggen naar het platteland en terug voor een betaalbare prijs.
 
@@ -24,7 +22,7 @@ Mijn interactieve web poster heb ik gemaakt met behulp van HTML5, CSS, Javascrip
 Met mijn poster wilde ik het licht naar voren laten komen en met alle elementen iets met licht doen.
 zo heb ik een lichtknop gemaakt waarmee je als het ware het licht aan kan zetten en de omgeving donker. Ook kan je op elementen hoveren en klikken waardoor het licht geeft. Het idee van de rookwolk is dat als er geen elektriciteit is de boeren hun boerderij vuur licht moesten geven waardoor een rook kwam.
 
-Bronnen:
+<b>Bronnen:</b>
 https://fsymbols.com/signs/sun/
 <br> https://codepen.io/HarlemSquirrel/pen/NdMebZ
 <br> https://proto.io/freebies/onoff/
