@@ -9,7 +9,11 @@ The REA huurde graphic designer Lester Beall in om een serie posters te maken me
 
 
 <img src="seriesposters.png" width="600">
-<img src="Lightposter.png" width="600">
+<img src="Lightposter.png" width="600"> 
+Met de poster "Light" wilde Beall laten zien dat licht erg belangrijk is om te hebben en dat dit met electrisering zou kunnen.
+
+Met mijn interactieve web poster wilde ik ook het licht naar voren laten komen en met alle elementen iets met licht doen.
+zo heb ik een lichtknop gemaakt waarmee je als het ware het licht aan kan zetten en de omgeving donker. Ook kan je op elementen hoveren en klikken waardoor het licht geeft. Het idee van de rookwolk is dat als er geen elektriciteit is de boeren hun boerderij vuur licht moesten geven waardoor een rook kwam.
 
 
 Bronnen:
