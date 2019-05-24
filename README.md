@@ -7,7 +7,8 @@ In 1935 werd door President Roosevelt the Rural Electrification Administration(R
 
 The REA huurde graphic designer Lester Beall in om een serie posters te maken met daarop de voordelen van electrisering. Ook wilde Beall de boodschap: <i>"bringing a bright and shiny future to the youth of America, (particularly those wholesome youth still down on the farm"</i> meegeven met de posters.
 
-<img src="seriesposters">
+
+<img src="seriesposters.png" width="600">
 
 
 Bronnen:
