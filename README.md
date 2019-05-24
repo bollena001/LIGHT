@@ -7,14 +7,22 @@ In 1935 werd door President Roosevelt the Rural Electrification Administration(R
 
 The REA huurde graphic designer Lester Beall in om een serie posters te maken met daarop de voordelen van electrisering. Ook wilde Beall de boodschap: <i>"bringing a bright and shiny future to the youth of America, (particularly those wholesome youth still down on the farm"</i> meegeven met de posters.
 
-
 <img src="seriesposters.png" width="600">
 <img src="Lightposter.png" width="600"> 
 Met de poster "Light" wilde Beall laten zien dat licht erg belangrijk is om te hebben en dat dit met electrisering zou kunnen.
 
-Met mijn interactieve web poster wilde ik ook het licht naar voren laten komen en met alle elementen iets met licht doen.
-zo heb ik een lichtknop gemaakt waarmee je als het ware het licht aan kan zetten en de omgeving donker. Ook kan je op elementen hoveren en klikken waardoor het licht geeft. Het idee van de rookwolk is dat als er geen elektriciteit is de boeren hun boerderij vuur licht moesten geven waardoor een rook kwam.
+Mijn interactieve web poster heb ik gemaakt met behulp van HTML5, CSS, Javascript en SVG's in illustrator.
 
+<b>SVG:</b> het boerderijhuis, de rook & de lamp.
+
+<b>Hovers:</b> de lamp, de ramen & de rook.
+
+<b>Clicks:</b> de teksten & de buttons.
+
+<b>Keys</b> L key.
+
+Met mijn poster wilde ik het licht naar voren laten komen en met alle elementen iets met licht doen.
+zo heb ik een lichtknop gemaakt waarmee je als het ware het licht aan kan zetten en de omgeving donker. Ook kan je op elementen hoveren en klikken waardoor het licht geeft. Het idee van de rookwolk is dat als er geen elektriciteit is de boeren hun boerderij vuur licht moesten geven waardoor een rook kwam.
 
 Bronnen:
 https://fsymbols.com/signs/sun/
