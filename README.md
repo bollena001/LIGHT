@@ -7,6 +7,7 @@ The REA huurde graphic designer Lester Beall in om een serie posters te maken me
 
 <img src="seriesposters.png" width="600">
 <img src="Lightposter.png" width="600"> 
+
 Met de poster "Light" wilde Beall laten zien dat licht erg belangrijk is om te hebben en dat dit met electrisering zou kunnen.
 
 Mijn interactieve web poster heb ik gemaakt met behulp van HTML5, CSS, Javascript en SVG's in illustrator.
